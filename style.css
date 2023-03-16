@@ -1,0 +1,39 @@
+.minhafoto{
+  position: absolute;
+  width: 247px;
+  height: 238px;
+  left: 57px;
+  top: 25px;
+}
+
+.titulonome{
+  position: absolute;
+width: 681px;
+height: 84px;
+left: 791px;
+top: 79px;
+
+font-family: 'Jacques Francois';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 84px;
+color: #FFFFFF;
+}
+
+.informacoes{
+
+  position: absolute;
+width: 1981px;
+height: 46px;
+left: 276px;
+top: 310px;
+
+font-family: 'Jacques Francois';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 53px;
+
+color: #F7B0B8;
+}
