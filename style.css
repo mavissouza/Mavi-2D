@@ -21,13 +21,13 @@ line-height: 84px;
 color: #FFFFFF;
 }
 
-.informacoes{
+.informacoes1{
 
   position: absolute;
-width: 1981px;
-height: 46px;
-left: 276px;
-top: 310px;
+width: 478px;
+height: 44px;
+left: 304px;
+top: 298px;
 
 font-family: 'Jacques Francois';
 font-style: normal;
@@ -36,4 +36,71 @@ font-size: 40px;
 line-height: 53px;
 
 color: #F7B0B8;
+}
+
+.informacoes2{
+  position: absolute;
+width: 279px;
+height: 67px;
+left: 1070px;
+top: 295px;
+
+font-family: 'Jacques Francois';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 53px;
+
+color: #F7B0B8;
+}
+
+.informacoes3{
+  position: absolute;
+width: 250px;
+height: 53px;
+left: 1622px;
+top: 297px;
+
+font-family: 'Jacques Francois';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 53px;
+
+
+color: #F7B0B8;
+
+}
+
+.sobremim{
+  position: absolute;
+width: 350px;
+height: 126px;
+left: 17px;
+top: 463px;
+
+font-family: 'Jacques Francois';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 63px;
+
+color: #FFFFFF;
+}
+
+.texto1{
+  position: absolute;
+width: 2229px;
+height: 401px;
+left: 17px;
+top: 534px;
+
+font-family: 'Itim';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #F7B0B8;
+
 }
