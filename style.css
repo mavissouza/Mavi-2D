@@ -1,3 +1,8 @@
+body{
+  background-color: #F7B0B8
+}
+
+
 .minhafoto{
   position: absolute;
   width: 247px;
@@ -8,17 +13,18 @@
 
 .titulonome{
   position: absolute;
-width: 681px;
-height: 84px;
-left: 791px;
-top: 79px;
+  width: 800px;
+  height: 84px;
+  left: 791px;
+  top: 50px;
 
-font-family: 'Jacques Francois';
-font-style: normal;
-font-weight: 400;
-font-size: 64px;
-line-height: 84px;
-color: #FFFFFF;
+  font-family: 'Jacques Francois';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 84px;
+
+  color: #FFFFFF;
 }
 
 .informacoes1{
@@ -27,7 +33,7 @@ color: #FFFFFF;
 width: 478px;
 height: 44px;
 left: 304px;
-top: 298px;
+top: 320px;
 
 font-family: 'Jacques Francois';
 font-style: normal;
@@ -43,7 +49,7 @@ color: #F7B0B8;
 width: 279px;
 height: 67px;
 left: 1070px;
-top: 295px;
+top: 320px;
 
 font-family: 'Jacques Francois';
 font-style: normal;
@@ -59,13 +65,14 @@ color: #F7B0B8;
 width: 250px;
 height: 53px;
 left: 1622px;
-top: 297px;
+top: 320px;
 
 font-family: 'Jacques Francois';
 font-style: normal;
 font-weight: 400;
 font-size: 40px;
 line-height: 53px;
+
 
 
 color: #F7B0B8;
@@ -102,5 +109,24 @@ font-size: 48px;
 line-height: 58px;
 
 color: #F7B0B8;
+}
 
+.retangulo{
+  position: absolute;
+width: 2268px;
+height: 430px;
+left: -11px;
+top: 534px;
+
+background: #D61C59;
+}
+
+.barra{
+  position: absolute;
+width: 2257px;
+height: 72px;
+left: 0px;
+top: 289px;
+
+background: #D61C59;
 }
