@@ -9,6 +9,7 @@ body{
   height: 238px;
   left: 57px;
   top: 25px;
+  border-radius: 50px;
 }
 
 .titulonome{
@@ -129,4 +130,69 @@ left: 0px;
 top: 289px;
 
 background: #D61C59;
+}
+
+.barra2{
+  position: absolute;
+width: 2257px;
+height: 121px;
+left: 0px;
+top: 1392px;
+
+background: #D61C59;
+}
+
+.email{
+  position: absolute;
+width: 137px;
+height: 49px;
+left: 68px;
+top: 1415px;
+
+font-family: 'Jacques Francois';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 63px;
+
+color: #FFFFFF;
+
+}
+
+.insta{
+  position: absolute;
+width: 241px;
+height: 49px;
+left: 895px;
+top: 1419px;
+
+font-family: 'Jacques Francois';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 63px;
+
+color: #FFFFFF;
+
+}
+
+.cell{
+  position: absolute;
+width: 197px;
+height: 43px;
+left: 1523px;
+top: 1422px;
+
+font-family: 'Itim';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 63px;
+
+color: #FFFFFF;
+
+
+
+
+
 }
